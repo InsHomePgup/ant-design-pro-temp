@@ -93,6 +93,12 @@ export default [
         path: '/dashboard/workplace',
         component: './dashboard/workplace',
       },
+      {
+        name: 'main',
+        icon: 'desktop',
+        path: '/dashboard/main',
+        component: './dashboard/main',
+      },
     ],
   },
   {
